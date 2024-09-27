@@ -1,0 +1,136 @@
+.top h2 {
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.top h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 54px;
+  padding: 15px;
+}
+.all {
+  font-size: 14px;
+  color: #5f6980;
+  width: 278px;
+  height: 44px;
+}
+.top p {
+  font-size: 20px;
+  color: #5f6980;
+  max-width: 760px;
+  margin: 0 auto;
+  text-align: center;
+  height: 70px;
+}
+.top {
+  padding: 50px;
+}
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 32px;
+  padding: 25px;
+}
+
+.calke {
+  border: 1px solid #eaecf0;
+}
+
+.test {
+  padding: 15px;
+}
+.photos {
+  display: flex;
+  align-items: center;
+}
+.icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  background-color: #f2f4f7;
+  border-radius: 100px;
+}
+.last {
+  max-width: 100%;
+  height: 460px;
+  background-color: #53535354;
+  display: flex;
+  justify-content: space-between;
+  padding: 108px;
+}
+.abzaci {
+  color: #535353;
+  display: flex;
+  margin-left: 170px;
+  text-align: center;
+  max-width: 306px;
+  height: 73px;
+  font-size: 14px;
+}
+.img {
+  display: flex;
+  text-align: center;
+  max-width: 100px;
+  height: 64px;
+  margin-left: 170px;
+  padding: 32px;
+}
+.logos {
+  display: flex;
+  margin-left: 170px;
+  padding: 28px;
+  gap: 7px;
+}
+.links {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.links h1 {
+  font-weight: 600;
+  font-size: 20px;
+
+  color: #1e1e1e;
+}
+
+ul {
+  color: #535353;
+}
+.service {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.service h1 {
+  font-weight: 600;
+  font-size: 20px;
+
+  color: #1e1e1e;
+}
+.english h1 {
+  font-size: 20px;
+  font-weight: 600;
+  color: #1e1e1e;
+}
+.radius {
+  width: 80px;
+  height: 45px;
+  background-color: #054a68;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  margin-top: 58px;
+}
+.radius h2 {
+  color: #ffffff;
+  font-size: 12px;
+}
